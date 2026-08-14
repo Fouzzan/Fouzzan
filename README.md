@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                     PROFILE HEADER                         -->
+<!--                     PROFILE HEADER                        -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -12,14 +12,16 @@ Building practical software, strengthening problem-solving skills,
 and exploring the intersection of **Python, Data Science & AI/ML**.
 
 <p>
-  <a href="www.linkedin.com/in/fouzan-mhd">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/fouzan-mhd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/FouzanMuhammedKV/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+  <a href="https://leetcode.com/u/FouzanMuhammedKV/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://github.com/Fouzzan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/Fouzzan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -27,22 +29,22 @@ and exploring the intersection of **Python, Data Science & AI/ML**.
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 I'm a **BCA graduate** and Python Developer Intern focused on building
 real-world applications and improving problem-solving skills.
 
 Currently working with:
 
-- 🐍 Python & Django
-- ⚛️ React & TypeScript
-- 🗄️ MongoDB & SQL
-- 🔐 REST APIs & JWT Authentication
-- 🧠 Data Structures & Algorithms
-- 🤖 Exploring Data Science, AI & Machine Learning
+- 🐍 **Python & Django**
+- ⚛️ **React & TypeScript**
+- 🗄️ **MongoDB & SQL**
+- 🔐 **REST APIs & JWT Authentication**
+- 🧠 **Data Structures & Algorithms**
+- 🤖 **Data Science, AI & Machine Learning**
 
 My long-term goal is to build strong expertise in **Data Science and
-Machine Learning**, while continuing to improve as a software engineer.
+Machine Learning**, while continuing to grow as a software engineer.
 
 ---
 
@@ -51,25 +53,25 @@ Machine Learning**, while continuing to improve as a software engineer.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css" alt="Languages"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,react,tailwind" alt="Frameworks"/>
 </p>
 
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Tools"/>
 </p>
 
-### Currently Learning
+### Currently Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Currently Learning"/>
 </p>
 
 > **Current focus:** Python → Data Structures → Data Science → Machine Learning
@@ -82,10 +84,14 @@ Machine Learning**, while continuing to improve as a software engineer.
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Fouzzan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  alt="Fouzan's GitHub Stats"
 />
+
+<br/>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Fouzzan&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -98,6 +104,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fouzzan&layout=compact&hide_border=true&langs_count=8"
+  alt="Top Languages"
 />
 
 </div>
@@ -110,10 +117,11 @@ Machine Learning**, while continuing to improve as a software engineer.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/FouzanMuhammedKV/">
+<a href="https://leetcode.com/u/FouzanMuhammedKV/" target="_blank">
 
 <img
   src="https://leetcard.jacoblin.cool/FouzanMuhammedKV?theme=dark&font=Baloo&ext=heatmap"
+  alt="Fouzan's LeetCode Stats"
 />
 
 </a>
@@ -134,7 +142,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 | Graphs | 🔄 Learning |
 | Dynamic Programming | 🔄 Learning |
 
-> Currently focused on improving **problem-solving patterns and algorithmic thinking**, rather than simply solving problems by memorizing solutions.
+> Currently focused on improving **problem-solving patterns and algorithmic thinking** rather than memorizing solutions.
 
 ---
 
@@ -144,6 +152,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Fouzzan&hide_border=true&area=true"
+  alt="GitHub Contribution Activity"
 />
 
 </div>
@@ -154,9 +163,22 @@ Machine Learning**, while continuing to improve as a software engineer.
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Fouzzan/output/github-contribution-grid-snake.svg"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Fouzzan/Fouzzan/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Fouzzan/Fouzzan/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Fouzzan/Fouzzan/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
@@ -188,15 +210,16 @@ clinicians and administrators.
 ### ✅ Productivity / Todo Application
 
 A modern task-management application built while strengthening
-React fundamentals.
+React fundamentals and state management.
 
 **Features**
 
 - Task creation
-- Editing
+- Task editing
 - Completion tracking
 - Task deletion
 - State management
+- Reusable components
 - Responsive UI
 
 **Stack**
@@ -211,22 +234,22 @@ React fundamentals.
                     CURRENT
                        │
                        ▼
-                Python Development
+               Python Development
                        │
                        ▼
-              Data Structures & Algorithms
+          Data Structures & Algorithms
                        │
                        ▼
-                  SQL + Statistics
+               SQL + Statistics
                        │
                        ▼
-                 Data Analysis
+                Data Analysis
                        │
                        ▼
-                 Machine Learning
+             Machine Learning
                        │
                        ▼
-                Deep Learning
+               Deep Learning
                        │
                        ▼
               AI / ML Engineering
