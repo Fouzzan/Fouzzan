@@ -1,3 +1,4 @@
+````md
 <!-- ========================================================= -->
 <!--                     PROFILE HEADER                        -->
 <!-- ========================================================= -->
@@ -34,7 +35,7 @@ and exploring the intersection of **Python, Data Science & AI/ML**.
 I'm a **BCA graduate** and Python Developer Intern focused on building
 real-world applications and improving problem-solving skills.
 
-My current technical focus includes:
+Currently working with:
 
 - 🐍 **Python & Django**
 - ⚛️ **React & TypeScript**
@@ -94,7 +95,7 @@ Machine Learning**, while continuing to grow as a software engineer.
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com/?user=Fouzzan&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=Fouzzan&theme=dark&hide_border=true"
   alt="Fouzan's GitHub Streak"
 />
 
@@ -256,3 +257,78 @@ React fundamentals, component architecture and state management.
                          │
                          ▼
                   AI / ML Engineering
+````
+
+---
+
+# 📚 Currently Working On
+
+<div align="center">
+
+| Area                            | Status          |
+| ------------------------------- | --------------- |
+| 🐍 Python                       | 🟢 Active       |
+| 🌐 Django                       | 🟢 Active       |
+| ⚛️ React                        | 🟢 Active       |
+| 🧠 Data Structures & Algorithms | 🟢 Active       |
+| 🗄️ SQL                         | 🟡 Improving    |
+| 📊 Data Science                 | 🟡 Exploring    |
+| 🤖 Machine Learning             | 🔵 Next Focus   |
+| 🧬 Deep Learning                | 🔵 Future Focus |
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+```text
+Strong Fundamentals
+        ↓
+Problem Solving
+        ↓
+Clean Code
+        ↓
+Real-World Projects
+        ↓
+Continuous Learning
+        ↓
+Data Science & AI
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, builders,
+and people working on interesting technology.
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/fouzan-mhd">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/FouzanMuhammedKV/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://github.com/Fouzzan">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=Fouzzan&style=flat-square&color=blue"
+alt="Profile Views"
+/>
+
+<br/><br/>
+
+### Build. Break. Understand. Improve.
+
+</div>
+```
