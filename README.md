@@ -12,13 +12,13 @@ Building practical software, strengthening problem-solving skills,
 and exploring the intersection of **Python, Data Science & AI/ML**.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="www.linkedin.com/in/fouzan-mhd">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/">
+  <a href="https://leetcode.com/u/FouzanMuhammedKV/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/Fouzzan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
