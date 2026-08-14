@@ -155,7 +155,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Fouzzan/Fouzzan/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/Fouzzan/output/github-contribution-grid-snake.svg"
 />
 
 </div>
