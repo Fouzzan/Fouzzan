@@ -81,11 +81,11 @@ Machine Learning**, while continuing to improve as a software engineer.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=Fouzzan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Fouzzan&hide_border=true"
 />
 
 </div>
@@ -97,7 +97,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fouzzan&layout=compact&hide_border=true&langs_count=8"
 />
 
 </div>
@@ -110,10 +110,10 @@ Machine Learning**, while continuing to improve as a software engineer.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/">
+<a href="https://leetcode.com/u/FouzanMuhammedKV/">
 
 <img
-  src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Baloo&ext=heatmap"
+  src="https://leetcard.jacoblin.cool/FouzanMuhammedKV?theme=dark&font=Baloo&ext=heatmap"
 />
 
 </a>
@@ -143,7 +143,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Fouzzan&hide_border=true&area=true"
 />
 
 </div>
@@ -155,7 +155,7 @@ Machine Learning**, while continuing to improve as a software engineer.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/Fouzzan/Fouzzan/output/github-contribution-grid-snake.svg"
 />
 
 </div>
